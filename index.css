@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.navbar {
+    background: linear-gradient(248.96deg, #FF8951 0%, #BD00FF 100.87%);
+
+}
+
+#logo {
+    height: 50px;
+    weight: 50px;
+    border-radius: 150px;
+}
+
+#home {
+    background: url("./images/webDev.png") no-repeat center;
+    background-size: 100% 100%;
+}
+
+#introduction {
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+#introduction h1 {
+    font-size: 4.6666666667vw;
+}
+
+#f1 {
+    background: linear-gradient(248.96deg, #51ABFF 0%, #BD00FF 100.87%);
+}
+
+#f2 {
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+#f3 {
+    background: linear-gradient(248.96deg, #51ABFF 0%, #BD00FF 100.87%);
+}
+
+#f4 {
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+#f5 {
+    background: linear-gradient(248.96deg, #FF8951 0%, #BD00FF 100.87%);
+}
+
+#f6 {
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+.carousel-control-prev, 
+.carousel-control-next {
+    background-color:rgba(0, 0, 0, 0.5);
+    top: 50%;
+    transform: translateY(-50%);
+    width: 3rem;
+    height: 3rem;
+}
+
+#about {
+    background-color: #BFBFBF;
+}
+
+#form-btn {
+    background: linear-gradient(248.96deg, #FF8951 0%, #BD00FF 100.87%);
+    border-radius: 999px;
+    border-style: none;
+}
+
+.modal-content {
+    background: linear-gradient(248.96deg, #FF3F3F 0%, #00FFD1 100.87%);
+    border-style: none;
+}
+
+#btn-modal {
+    border-style: solid;
+    border-color: black;
+}
+
+footer {
+    background-color: black;
+}
